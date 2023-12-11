@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahammed Afnan</h1>
 <h3 align="center">A passionate Fullstack developer from Kerala.</h3>
 
-<p align="left"> <a href="https://twitter.com/afnxnaniiie" target="blank"><img src="https://img.shields.io/twitter/follow/afnxnaniiie?logo=twitter&style=for-the-badge" alt="afnxnaniiie" /></a> </p>
-
-
 
 - 🔭 I’m currently working on **Brototype**
 
