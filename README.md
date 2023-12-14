@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahammed Afnan</h1>
 <h3 align="center">A passionate Fullstack developer from Kerala.</h3>
 <br>
-- 🔭 I’m currently working on **Brototype**
+- 🔭 I’m currently working on Brototype
 
 - 🌱 I’m currently learning **React.js**
 
